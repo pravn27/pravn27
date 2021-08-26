@@ -23,4 +23,4 @@ i'm passionate on self-taught full stack web/mobile developer and new tech items
 <br />
 <br />
 
-[![Praveen Shekarappa GitHub stats](https://github-readme-stats.vercel.app/api?username=pravn27)](https://github.com/anuraghazra/github-readme-stats)
+[![Praveen Shekarappa GitHub stats](https://github-readme-stats.vercel.app/api?username=pravn27)](https://github.com/pravn27/github-readme-stats)
