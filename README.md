@@ -1,10 +1,10 @@
 ### hey there 👋
 
-i'm [Praveen Shekarappa](https://pravn27.github.io/dev-portfolio/), result-orientated professional over 6+ year’s experience in UI Software Development in web and mobile application development with frontend cutting edge technologies & extensive experience on ReactJS & JavaScript in building web application interface.
+I'm [Praveen Shekarappa](https://pravn27.github.io/dev-portfolio/), a result-orientated professional with over 7+ years of experience in UI Software Development in web and mobile application development with frontend cutting-edge technologies & extensive experience with ReactJS & JavaScript in building web application interfaces.
 
 Currently working as Senior Software Engineer - UI ReactJS developer at Xactly Technologies
 
-i'm passionate on self-taught full stack web/mobile developer and new tech items, open to work & contribute in open source projects. I would like to learn a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm passionate about self-taught full stack web/mobile app development and new tech items, open to working & contributing to open source projects. I would like to learn a lot from the open-source community and I love how collaboration and knowledge-sharing happened through open-source.
 
 <hr/>
 
