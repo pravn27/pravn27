@@ -1,29 +1,68 @@
-### hey there 👋
+![👋 Hi, my name is Praveen Shekarappa](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-I'm [Praveen Shekarappa](https://pravn27.github.io/dev-portfolio/), a result-orientated professional with over 9+ years of experience in UI Software Development in web and mobile application development with frontend cutting-edge technologies & extensive experience with ReactJS & JavaScript in building large scale web application interfaces.
+### Hey there 👋
 
-Currently working as Senior Software Engineer - UI ReactJS developer at Xactly Technologies
+I'm [Praveen Shekarappa](), overall **9+ years of experience** in UI Software Development, specializing in web and mobile application development. I have extensive expertise in **ReactJS and JavaScript**, building large-scale web application interfaces.
 
-I'm passionate about self-taught full stack web/mobile app development and new tech items, open to working & contributing to open source projects. I would like to learn a lot from the open-source community and I love how collaboration and knowledge-sharing happened through open-source.
+💼 **Current Role**: Senior Software Engineer - UI ReactJS Developer at Xactly Technologies  
+🌱 **Passion**: Self-taught full-stack web/mobile app development, exploring new technologies, and contributing to open-source projects. I thrive on collaboration and knowledge-sharing within the open-source community. 🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.
 
-<hr/>
+---
 
-### Languages/Scripting, Technology and Tools
+### 🛠️ Languages, Technologies & Tools
 
-<img title="Javascript" align="left" alt="javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="reactJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="redux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="webpack" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
-<img align="left" alt="styledComponents" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
-<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="visualStudioCode" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="mongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="github" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<br />
-<br />
-<hr/>
+#### 🌐 Front-End Development
 
-[![Praveen Shekarappa GitHub stats](https://github-readme-stats.vercel.app/api?username=pravn27)](https://github.com/pravn27/github-readme-stats)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+
+#### 🗂️ Version Controls
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge)
+![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white&style=for-the-badge)
+
+#### 🛠️ JS Build Tools
+
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge)
+![Parcel](https://img.shields.io/badge/-Parcel-BD081C?logo=parcel&logoColor=white&style=for-the-badge)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge)
+
+#### 🗄️ Back-End & Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+
+#### 🧰 Development Tools
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+#### 🚀 DevOps & CI/CD
+
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+
+![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravn27&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravn27&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white&style=for-the-badge)](https://pravn27.github.io/dev-portfolio/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/pravn27)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/praveen-shekarappa/)
