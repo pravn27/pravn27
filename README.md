@@ -1,4 +1,6 @@
-![👋 Hi, my name is Praveen Shekarappa](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+<div align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="👋 Hi, my name is Praveen Shekarappa">
+</div>
 
 ### Hey there 👋
 
