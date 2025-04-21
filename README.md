@@ -30,9 +30,8 @@ I'm [Praveen Shekarappa](), overall **9+ years of experience** in UI Software De
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 
-#### 🗂️ Version Controls
+#### 🗂️ Version Controls System
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge)
 ![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white&style=for-the-badge)
