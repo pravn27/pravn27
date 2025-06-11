@@ -16,32 +16,31 @@ I'm [Praveen Shekarappa](), overall **9+ years of experience in UI Software Deve
 
 #### 🌐 Front-End Development
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-009688?logo=responsive-design&logoColor=white&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) ![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+HTML5 • CSS3 • Responsive Web Design • Bootstrap • Tailwind CSS • JavaScript • jQuery • NodeJS • ReactJS • Redux • Styled Components • TypeScript • React Native
 
 #### 🗂️ Version Controls System
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge) ![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white&style=for-the-badge)
+Git • GitHub • Bitbucket • GitLab • SVN
 
 #### JS Testing
 
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge) ![Enzyme](https://img.shields.io/badge/-Enzyme-8B0000?logo=testing-library&logoColor=white&style=for-the-badge) ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=for-the-badge)
+Jest • Enzyme • React Testing Library
 
 #### 🛠️ JS Build Tools
 
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge) ![Parcel](https://img.shields.io/badge/-Parcel-BD081C?logo=parcel&logoColor=white&style=for-the-badge) ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge)
+Webpack • Parcel • Babel
 
 #### 🗄️ Back-End & Databases
 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+SQL • MySQL • PostgreSQL • MongoDB
 
 #### 🧰 Development Tools
 
-![VS Code IDE](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge) ![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white&style=for-the-badge)
+VS Code IDE • Linux • Ubuntu • CentOS
 
 #### 🚀 DevOps & CI/CD
 
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+Jenkins • Docker
 
 ---
 
@@ -60,6 +59,4 @@ I'm [Praveen Shekarappa](), overall **9+ years of experience in UI Software Deve
 
 ### 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white&style=for-the-badge)](https://pravn27.github.io/dev-portfolio/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/pravn27)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/praveen-shekarappa/)
+[Portfolio](https://pravn27.github.io/dev-portfolio/) • [GitHub](https://github.com/pravn27) • [LinkedIn](https://www.linkedin.com/in/praveen-shekarappa/)
