@@ -20,55 +20,55 @@ Senior Software Engineer with **9+ years of experience** in UI Software Developm
 
 ### Frontend Development
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> HTML5 •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> CSS3 •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> JavaScript •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="20" height="20"/> jQuery •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20"/> NodeJS •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> ReactJS •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="20" height="20"/> Redux •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20"/> TypeScript •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> React Native •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20"/> Bootstrap •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" height="20"/> Tailwind CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" style="vertical-align: middle;"/> HTML5 •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align: middle;"/> CSS3 •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align: middle;"/> JavaScript •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="20" height="20" style="vertical-align: middle;"/> jQuery •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" style="vertical-align: middle;"/> NodeJS •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" style="vertical-align: middle;"/> ReactJS •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="20" height="20" style="vertical-align: middle;"/> Redux •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" style="vertical-align: middle;"/> TypeScript •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" style="vertical-align: middle;"/> React Native •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20" style="vertical-align: middle;"/> Bootstrap •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" height="20" style="vertical-align: middle;"/> Tailwind CSS
 
 ### Version Control
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> Git •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20"/> GitHub •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="20" height="20"/> Bitbucket •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" height="20"/> GitLab •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" width="20" height="20"/> SVN
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" style="vertical-align: middle;"/> Git •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" style="vertical-align: middle;"/> GitHub •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="20" height="20" style="vertical-align: middle;"/> Bitbucket •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" height="20" style="vertical-align: middle;"/> GitLab •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" width="20" height="20" style="vertical-align: middle;"/> SVN
 
 ### Testing
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="20" height="20"/> Jest •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testing-library/testing-library-original.svg" width="20" height="20"/> Enzyme •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testing-library/testing-library-original.svg" width="20" height="20"/> React Testing Library
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="20" height="20" style="vertical-align: middle;"/> Jest •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testing-library/testing-library-original.svg" width="20" height="20" style="vertical-align: middle;"/> Enzyme •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testing-library/testing-library-original.svg" width="20" height="20" style="vertical-align: middle;"/> React Testing Library
 
 ### Build Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="20" height="20"/> Webpack •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/parcel/parcel-original.svg" width="20" height="20"/> Parcel •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="20" height="20"/> Babel
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="20" height="20" style="vertical-align: middle;"/> Webpack •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/parcel/parcel-original.svg" width="20" height="20" style="vertical-align: middle;"/> Parcel •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="20" height="20" style="vertical-align: middle;"/> Babel
 
 ### Backend & Databases
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/> MySQL •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> PostgreSQL •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="20"/> MongoDB
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" style="vertical-align: middle;"/> MySQL •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" style="vertical-align: middle;"/> PostgreSQL •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="20" style="vertical-align: middle;"/> MongoDB
 
 ### Development Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20"/> VS Code IDE •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20"/> Linux •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="20" height="20"/> Ubuntu •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="20" height="20"/> CentOS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" style="vertical-align: middle;"/> VS Code IDE •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" style="vertical-align: middle;"/> Linux •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="20" height="20" style="vertical-align: middle;"/> Ubuntu •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="20" height="20" style="vertical-align: middle;"/> CentOS
 
 ### DevOps & CI/CD
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20" height="20"/> Jenkins •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20"/> Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20" height="20" style="vertical-align: middle;"/> Jenkins •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" style="vertical-align: middle;"/> Docker
 
 ## GitHub Analytics
 
