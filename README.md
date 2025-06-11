@@ -43,32 +43,32 @@ Senior Software Engineer with **9+ years of experience** in UI Software Developm
 ### Testing
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="20" height="20" style="vertical-align: middle;"/> Jest •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testing-library/testing-library-original.svg" width="20" height="20" style="vertical-align: middle;"/> Enzyme •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testing-library/testing-library-original.svg" width="20" height="20" style="vertical-align: middle;"/> React Testing Library
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="20" height="20" style="vertical-align: middle;"/> Enzyme •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" width="20" height="20" style="vertical-align: middle;"/> React Testing Library
 
 ### Build Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="20" height="20" style="vertical-align: middle;"/> Webpack •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/parcel/parcel-original.svg" width="20" height="20" style="vertical-align: middle;"/> Parcel •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="20" height="20" style="vertical-align: middle;"/> Parcel •
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="20" height="20" style="vertical-align: middle;"/> Babel
 
 ### Backend & Databases
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" style="vertical-align: middle;"/> MySQL •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" style="vertical-align: middle;"/> PostgreSQL •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="20" style="vertical-align: middle;"/> MongoDB
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="20" height="20" style="vertical-align: middle;"/> MySQL •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="20" height="20" style="vertical-align: middle;"/> PostgreSQL •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="20" height="20" style="vertical-align: middle;"/> MongoDB
 
 ### Development Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" style="vertical-align: middle;"/> VS Code IDE •
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" style="vertical-align: middle;"/> Linux •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="20" height="20" style="vertical-align: middle;"/> Ubuntu •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="20" height="20" style="vertical-align: middle;"/> CentOS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="20" height="20" style="vertical-align: middle;"/> Ubuntu •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" width="20" height="20" style="vertical-align: middle;"/> CentOS
 
 ### DevOps & CI/CD
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20" height="20" style="vertical-align: middle;"/> Jenkins •
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" style="vertical-align: middle;"/> Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="20" height="20" style="vertical-align: middle;"/> Docker
 
 ## GitHub Analytics
 
