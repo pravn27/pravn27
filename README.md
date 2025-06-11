@@ -1,56 +1,86 @@
+# Praveen Shekarappa
+
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="👋 Hi, my name is Praveen Shekarappa">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Hi, I'm Praveen Shekarappa" width="600px">
 </div>
 
-### Hey there 👋
+## About Me
 
-I'm [Praveen Shekarappa](), overall **9+ years of experience in UI Software Development**, specializing in web and mobile application development. I have extensive expertise in **ReactJS and JavaScript**, building large-scale web application interfaces.
+Senior Software Engineer with **9+ years of experience** in UI Software Development, specializing in web and mobile application development. Currently working as a Senior Software Engineer - UI ReactJS Developer at Xactly Technologies.
 
-💼 **Current Role**: Senior Software Engineer - UI ReactJS Developer at Xactly Technologies
+### Professional Focus
 
-🌱 **Passion**: Self-taught full-stack web/mobile app development, exploring new technologies, and contributing to open-source projects. I thrive on collaboration and knowledge-sharing within the open-source community. 🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.
+- Full-stack web/mobile app development
+- ReactJS and JavaScript expertise
+- Building large-scale web application interfaces
+- Open-source contribution and collaboration
+- Performance optimization and user experience
 
----
+## Tech Stack
 
-### 🛠️ Languages, Technologies & Tools
+### Frontend Development
 
-#### 🌐 Front-End Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> HTML5 •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> CSS3 •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> JavaScript •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="20" height="20"/> jQuery •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20"/> NodeJS •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> ReactJS •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="20" height="20"/> Redux •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20"/> TypeScript •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> React Native •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20"/> Bootstrap •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" height="20"/> Tailwind CSS
 
-HTML5 • CSS3 • Responsive Web Design • Bootstrap • Tailwind CSS • JavaScript • jQuery • NodeJS • ReactJS • Redux • Styled Components • TypeScript • React Native
+### Version Control
 
-#### 🗂️ Version Controls System
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> Git •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20"/> GitHub •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="20" height="20"/> Bitbucket •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="20" height="20"/> GitLab •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" width="20" height="20"/> SVN
 
-Git • GitHub • Bitbucket • GitLab • SVN
+### Testing
 
-#### JS Testing
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="20" height="20"/> Jest •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testing-library/testing-library-original.svg" width="20" height="20"/> Enzyme •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testing-library/testing-library-original.svg" width="20" height="20"/> React Testing Library
 
-Jest • Enzyme • React Testing Library
+### Build Tools
 
-#### 🛠️ JS Build Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="20" height="20"/> Webpack •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/parcel/parcel-original.svg" width="20" height="20"/> Parcel •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="20" height="20"/> Babel
 
-Webpack • Parcel • Babel
+### Backend & Databases
 
-#### 🗄️ Back-End & Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/> MySQL •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20"/> PostgreSQL •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="20"/> MongoDB
 
-SQL • MySQL • PostgreSQL • MongoDB
+### Development Tools
 
-#### 🧰 Development Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20"/> VS Code IDE •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20"/> Linux •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="20" height="20"/> Ubuntu •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="20" height="20"/> CentOS
 
-VS Code IDE • Linux • Ubuntu • CentOS
+### DevOps & CI/CD
 
-#### 🚀 DevOps & CI/CD
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20" height="20"/> Jenkins •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20"/> Docker
 
-Jenkins • Docker
+## GitHub Analytics
 
----
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pravn27&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravn27&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
-### 📊 GitHub Stats
+## Connect With Me
 
-![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pravn27&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pravn27&layout=compact&theme=radical)
-
----
-
-### 🌐 Connect with Me
-
-[Portfolio](https://pravn27.github.io/dev-portfolio/) • [GitHub](https://github.com/pravn27) • [LinkedIn](https://www.linkedin.com/in/praveen-shekarappa/)
+<div align="center">
+    <a href="https://pravn27.github.io/dev-portfolio/">Portfolio</a> • 
+    <a href="https://github.com/pravn27">GitHub</a> • 
+    <a href="https://www.linkedin.com/in/praveen-shekarappa/">LinkedIn</a>
+</div>
