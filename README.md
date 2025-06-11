@@ -82,5 +82,5 @@ Senior Software Engineer with **9+ years of experience** in UI Software Developm
 <div align="center">
     <a href="https://pravn27.github.io/dev-portfolio/">Portfolio</a> • 
     <a href="https://github.com/pravn27">GitHub</a> • 
-    <a href="https://www.linkedin.com/in/praveen-shekarappa/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/praveen-s-157b365a/">LinkedIn</a>
 </div>
