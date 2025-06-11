@@ -51,12 +51,6 @@ Jenkins • Docker
 
 ---
 
-### 👀 Visitors Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=pravn27&color=blue&style=flat-square)
-
----
-
 ### 🌐 Connect with Me
 
 [Portfolio](https://pravn27.github.io/dev-portfolio/) • [GitHub](https://github.com/pravn27) • [LinkedIn](https://www.linkedin.com/in/praveen-shekarappa/)
