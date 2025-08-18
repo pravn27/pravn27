@@ -6,7 +6,7 @@
 
 ## About Me
 
-Senior Software Engineer with **9+ years of experience** in UI Software Development, specializing in web and mobile application development. Currently working as a Senior Software Engineer - UI ReactJS Developer at Xactly Technologies.
+Senior Software Engineer with **10+ years of experience** in UI Software Development, specializing in web and mobile application development. Currently working as a Senior Software Engineer - UI ReactJS Developer at Xactly Technologies.
 
 ### Professional Focus
 
