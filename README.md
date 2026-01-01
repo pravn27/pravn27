@@ -10,6 +10,7 @@ Senior Software Engineer with **10+ years of experience** in UI Software Develop
 
 ### Professional Focus
 
+- Full-stack Data AI engineer, AI Business solution engineer
 - Full-stack web/mobile app development
 - ReactJS and JavaScript expertise
 - Building large-scale web application interfaces
