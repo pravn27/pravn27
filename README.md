@@ -1,7 +1,7 @@
 # Praveen Shekarappa
-
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Hi, I'm Praveen Shekarappa" width="600px">
+    <img src="https://miro.medium.com/1*vIdeUIq4I2E2ykTXJJJaRQ.gif" alt="Hi, I'm Praveen Shekarappa" width="300px">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Hi, I'm Praveen Shekarappa" width="500px">
 </div>
 
 ## About Me
